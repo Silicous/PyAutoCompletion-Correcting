@@ -37,7 +37,6 @@ class MyCompleter(object):  # Custom completer
 
         self.matches = self.matches[:10]  # Just to not mess up the output
 
-    # There ar
     def complete(self, text, state):
         if state == 0:  # on first trigger, build possible matches
 
