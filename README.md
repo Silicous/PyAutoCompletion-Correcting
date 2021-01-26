@@ -1,5 +1,5 @@
 # PyAutoCompletion-Correcting
-*python 3.6+
+
 Console program, that gives you some kind of autocomplete functionality
 
 ## What it can?
